@@ -1,2 +1,4 @@
 # ENL
-Encuesta Nacional de Lectura 2022
+La Encuesta Nacional de Lectura 2022 (ENL 2022) tiene como finalidad el suministrar información estadística actualizada sobre los comportamientos y prácticas que tienen los residentes en Perú acerca de la lectura, el consumo de diversas publicaciones en diferentes formatos y plataformas, el acceso a servicios bibliotecarios en bibliotecas y la participación en ferias y festivales del libro y la lectura, que permitan establecer indicadores que alimenten las políticas, programas y proyectos.
+
+En abril de 2023, luego de las etapas de aplicación y procesamiento de información, se presentó el Informe Nacional de Resultados de la ENL 2022, operación estadística realizada por el Ministerio de Cultura en colaboración con el Instituto Nacional de Estadística e Informática (INEI). Se resalta su importancia porque es la línea de base de la Política Nacional de la Lectura, el Libro y las Bibliotecas (PNLLB) y se trata de la encuesta de esta naturaleza con la muestra más grande (67 800 personas de 0 a 64 años de edad a nivel nacional) en Hispanoamérica.
